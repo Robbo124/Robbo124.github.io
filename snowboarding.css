@@ -1,0 +1,27 @@
+#header {
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+#box {
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: double;
+    border-width: 3px;
+    margin-top: 25px;
+    background-color: aliceblue;
+}
+
+body {
+    background: lightgray;
+    font-family: 'Oswald', sans-serif;
+}
+
+a { color: darkblue;
+    text-decoration: none }
+a:hover { color: purple }
+
+video {
+    margin-top: 25px;
+}
+
